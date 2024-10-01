@@ -1,4 +1,4 @@
-score = input("Enter Score: ")
+score = input("Enter Score: ") #
 val = 0
 try:
     val = float(score)
